@@ -35,9 +35,9 @@ The solution involves data exploration, cleaning, and preprocessing, followed by
 - **Testing**: Validating the models with new test statements.
 
 ### Includes 
-- Python scripts: [Solution](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/Solutions/ITS69304_Group1_GroupAssignment.ipynb)
-- Detailed report in PDF format: 
-- Presentation video explaining the methodology and results: 
+- **Python scripts**: [Solution](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/Solutions/ITS69304_Group1_GroupAssignment.ipynb)
+- **Detailed report**: 
+- **Presentation video**: 
 
 ## About Dataset 
 [**mentalhealth.csv**](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/mentalhealth.csv): This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. 
