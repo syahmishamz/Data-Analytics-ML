@@ -3,7 +3,7 @@ Mental health is more than the absence of mental disorders. It exists on a compl
 
 Mental health conditions include mental disorders and psychosocial disabilities as well as other mental states associated with significant distress, impairment in functioning, or risk of self-harm. People with mental health conditions are more likely to experience lower levels of mental well-being, but this is not always or necessarily the case.
 
-## Determinants of Mental Health 
+### Determinants of Mental Health 
 - **Mental Health Continuum**: Mental health is influenced by multiple factors that either protect or undermine it, shifting individuals along a continuum throughout their lives.
   
 - **Individual Risk Factors**:
