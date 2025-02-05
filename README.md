@@ -24,8 +24,23 @@ Mental health conditions include mental disorders and psychosocial disabilities 
 
 - **Interacting Determinants**: The combination of various factors ultimately enhances or undermines mental health across individuals and populations. 
 
+## Features of Project
+
+The solution involves data exploration, cleaning, and preprocessing, followed by building predictive models using Decision Tree and Neural Network algorithms.
+
+- **Data Cleaning**: Handling missing values through imputation.
+- **Binary Classification**: Transforming multi-class labels into binary categories (normal/depression).
+- **Model Development**: Implementing Decision Tree and Neural Network models for sentiment classification.
+- **Evaluation**: Assessing model performance using accuracy, precision, recall, and ROC analysis.
+- **Testing**: Validating the models with new test statements.
+
+### Includes 
+- Python scripts: [Solution](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/Solutions/ITS69304_Group1_GroupAssignment.ipynb)
+- Detailed report in PDF format: 
+- Presentation video explaining the methodology and results: 
+
 ## About Dataset 
-[mentalhealth.csv](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/mentalhealth.csv): This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. 
+[**mentalhealth.csv**](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/mentalhealth.csv): This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. 
 
 The dataset amalgamates raw data from multiple sources, cleaned and compiled to create a robust resource for developing chatbots and performing sentiment analysis.
 
@@ -46,9 +61,9 @@ The data is sourced from diverse platforms including social media posts, Reddit 
 - Research and studies related to mental health trends.
 
 ### Features
-- unique_id: A unique identifier for each entry.
-- Statement: The textual data or post.
-- Mental Health Status: The tagged mental health status of the statement.
+- **unique_id**: A unique identifier for each entry.
+- **Statement**: The textual data or post.
+- **Mental Health Status**: The tagged mental health status of the statement.
 
 ### Usage
 This dataset is ideal for training machine learning models aimed at understanding and predicting mental health conditions based on textual data. It can be used in various applications such as:
