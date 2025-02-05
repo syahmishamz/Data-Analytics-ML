@@ -24,8 +24,6 @@ Mental health conditions include mental disorders and psychosocial disabilities 
 
 - **Interacting Determinants**: The combination of various factors ultimately enhances or undermines mental health across individuals and populations. 
 
-This project explores these dynamics through sentiment analysis for mental health classification using machine learning models.
-
 ## About Dataset 
 [mentalhealth.csv](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/mentalhealth.csv): This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. 
 
