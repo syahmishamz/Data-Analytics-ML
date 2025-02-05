@@ -26,8 +26,10 @@ Mental health conditions include mental disorders and psychosocial disabilities 
 
 This project explores these dynamics through sentiment analysis for mental health classification using machine learning models.
 
-## About Dataset
-This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. The dataset amalgamates raw data from multiple sources, cleaned and compiled to create a robust resource for developing chatbots and performing sentiment analysis.
+## About Dataset 
+[mentalhealth.csv](https://github.com/syahmishamz/Data-Analytics-ML/blob/main/mentalhealth.csv): This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. 
+
+The dataset amalgamates raw data from multiple sources, cleaned and compiled to create a robust resource for developing chatbots and performing sentiment analysis.
 
 ### Data Overview
 The dataset consists of statements tagged with one of the following seven mental health statuses:
